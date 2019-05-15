@@ -1,4 +1,10 @@
-# Development
+<p align="center">
+  <img src="113.png" alt="Jagged Alliance 2 1.13">
+</p>
+
+# Jagged Alliance 2 v1.13 - Development
+> **THIS DOCUMENT IS A WORK IN PROGRESS**
+
 The SCIs are made on a two weekly or monthly basis. If, however, you want to follow the development of 1.13 as close as possible or maybe even help, you can compile the executable of 1.13 yourself and combine this with the latest game data.
 
 ## 1 SVN
