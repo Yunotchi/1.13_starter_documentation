@@ -15,9 +15,9 @@ This play guide will provide information about how to use the various features a
   - [1.1 New Game settings](#11-new-game-settings)
   - [1.2 In-game settings](#12-in-game-settings)
 - [2. Playing the game](#2-playing-the-game)
-- [3. Feature deep dive](#feature-deep-dive)
-  - [NCTH (New Chance to Hit)](#ncth)
-  - [NIS/NAS (New Inventory System & New Attachment System)](#nis-nas)
+- [3. Feature deep dive](#3-feature-deep-dive)
+  - [NCTH (New Chance to Hit)](#31-ncth-new-chance-to-hit)
+  - [NIS/NAS (New Inventory System & New Attachment System)](#32-nisnas)
 - [4. Starter tips](#4-starter-tips)
 
 
@@ -35,7 +35,7 @@ The settings available when starting a new game will vary depending on which rel
 | Skill Traits | **New**, Old | The *New* Traits system divides the old Traits into Major and Minor Traits, makes changes, and adds some new Traits as well. Tooltips provide detailed information on what each Trait does by hovering the mouse cursor over it. |
 | Game Style | **Sci-Fi**, Realistic | In *Sci-Fi* mode you will encounter a unique enemy type and unrealistic weapons. *Realistic* mode removes these. |
 | Extra Difficulty | **Save Anytime**, Iron Man | *Save Anytime* allows you to save... any time you fancy. In *Iron Man* you may only save in a sector not occupied by enemies.  |
-| Inventory / Attachments | **New/New**, New/Old, Old/Old |  Essentially, the new systems provide more complexity and customisability. Check [section 3.2](#32-NISNAS) for info. <br /> ※ There is no Old/New setting as the New Weapon Attachment system can only be used with the New Inventory system. |
+| Inventory / Attachments | **New/New**, New/Old, Old/Old |  Essentially, the new systems provide more complexity and customisability. Check [section 3.2](#32-nisnas) for info. <br /> ※ There is no Old/New setting as the New Weapon Attachment system can only be used with the New Inventory system. |
 | Progress Speed of Item Choices | Very Slow, Slow, **Normal**, Fast, Very Fast |  Controls the rate at which better equipment becomes available to both the player and the enemies. For example, if set to *Very Slow*, you will be using pistols and SMGs for a longer period of the game. |
 | Available Arsenal | **Tons of Guns**, Reduced |  *Tons of Guns* adds a massive number of guns to the game. If you are not interested in firearms and/or want a a simpler arsenal, pick *Reduced*. |
 | Max. Squad Size | 6, 8, 10 |  The available options are dependent on resolution: 640x480 allows for up to 6, 800x600 allows for up to 8, and 1024x768 allows for up to 10. |
@@ -48,7 +48,7 @@ Release 7609 has all of the settings from r8610+ (see above), as well as the fol
 | Setting | Options (default in bold) | Setting name in `JA2_Options.ini` (r8610+) | Description |
 | ------- | ------------------------- | ------------------------------------------ | ----------- |
 | Max IMP Characters | **1**~10 |  (deleted as of r8622) |  --- |
-| New Chance to Hit System | **Off**, On |  `NCTH` (Default: `FALSE`) |  See [section 3.1](#31-ncth). |
+| New Chance to Hit System | **Off**, On |  `NCTH` (Default: `FALSE`) |  See [section 3.1](#31-ncth-new-chance-to-hit). |
 | Enemies Drop All Items | **Off**, On |  `DROP_ALL` (Default: `FALSE`) **(recently changed to an int?)** |  Controls if NPCs drop all their items when they are killed. |
 | Merc Story Backgrounds | Off, **On** |  `BACKGROUNDS` (Default: `TRUE`) |  --- |
 | Food System | **Off**, On |  `FOOD` (Default: `FALSE`) |  Enabling the *Food System* means the player must keep their mercenaries fed and quenched else they will suffer drawbacks; potentially death if deprived long enough. |
@@ -90,17 +90,17 @@ For in-depth details on some of these new systems, please refer to section 3.
 https://ja2v113ham.fandom.com/wiki/Game_Progress-Weight_Controls
 
 
-## 3. Feature deep dive {#feature-deep-dive}
+## 3. Feature deep dive
 
-### 3.1 NCTH (New Chance to Hit) {#ncth}
+### 3.1 NCTH (New Chance to Hit)
 TODO
 
-### 3.2 NIS/NAS {#nis-nas}
+### 3.2 NIS/NAS
 TODO
 
-#### 3.2.1 NIS (New Inventory System) {#nis}
+#### 3.2.1 NIS (New Inventory System)
 
-#### 3.2.2 NAS (New Attachment System) {#nas}
+#### 3.2.2 NAS (New Attachment System)
 
 
 ## 4. Starter tips
